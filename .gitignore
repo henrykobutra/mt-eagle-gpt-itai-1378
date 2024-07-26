@@ -1,0 +1,18 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+
+# Virtual environment directories
+env/
+venv/
+
+# OS generated files
+.DS_Store
+
+# IDE specific directories
+.vscode/
+
+# Environment variables
+.env
